@@ -1,10 +1,3 @@
-## Hi there 👋
-
-
-
-<!--
-**GiovonniBrown06/GiovonniBrown06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #GiovonniBrown
 
 ## Hello There
