@@ -6,7 +6,11 @@
 <h3 align="center">A passionate about working in tech which i love to do</h3>
 
 ## 📜 Certifications
-![CompTIA Security+ Certified](https://img.shields.io/badge/Certification-CompTIA%20Security%2B-blue?style=for-the-badge&logo=shield&logoColor=white)
+## 🔐 Certifications
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/CompTIA_Security%2B_logo.png" width="250">
 
 CompTIA Network+ (In Progress)
 
